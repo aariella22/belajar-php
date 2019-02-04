@@ -5,3 +5,5 @@
 // Floating Point Number(float), Atau disebut decimal 100.24 atau 24.5 //
 // Array adalah campuran Tipe Data Secara kompleks ['Ariella', 'Giovanni'] //
 // Null , Bukan 0 tapi Null //
+
+?>
