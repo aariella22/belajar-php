@@ -10,3 +10,4 @@ echo $jumlahSiswa;
 
 echo 'Ada ' .$jumlahSiswa. ' siswa didalam kelas';
 
+?>
